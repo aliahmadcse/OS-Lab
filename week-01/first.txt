@@ -1,0 +1,4 @@
+wc filename.txt command returns newline count, word count and
+bytes.
+You can pass an option -L to print the length of longest (number of
+characters) line a file.
